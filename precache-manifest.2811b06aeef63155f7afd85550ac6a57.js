@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5858e9cd23b0583e5ca883a90aed3e01",
+    "revision": "81e1a2e97d29f5b1df5686943775d9f3",
     "url": "/theNygmaMachine/index.html"
   },
   {
-    "revision": "f5cb636e4e4c39fa0389",
-    "url": "/theNygmaMachine/static/css/main.c571b0d0.chunk.css"
+    "revision": "a727ed36bcc71232d418",
+    "url": "/theNygmaMachine/static/css/main.99bc6a92.chunk.css"
   },
   {
     "revision": "8072e7b42a273baa00ac",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/theNygmaMachine/static/js/2.b39f0a5e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f5cb636e4e4c39fa0389",
+    "revision": "a727ed36bcc71232d418",
     "url": "/theNygmaMachine/static/js/main.088c8af1.chunk.js"
   },
   {
