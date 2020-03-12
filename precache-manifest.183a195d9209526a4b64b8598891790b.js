@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c925d2d53dc22c43690a1fbddb0ce37",
+    "revision": "8a5061481b19c93c57582fe8699971b8",
     "url": "/theNygmaMachine/index.html"
   },
   {
-    "revision": "299cc59c0d0b1479ab17",
-    "url": "/theNygmaMachine/static/css/main.9a24ca07.chunk.css"
+    "revision": "2db959ee295bdf21d96e",
+    "url": "/theNygmaMachine/static/css/main.5b39b378.chunk.css"
   },
   {
-    "revision": "2e06a543204dcf11a9cb",
-    "url": "/theNygmaMachine/static/js/2.b3433c05.chunk.js"
+    "revision": "8072e7b42a273baa00ac",
+    "url": "/theNygmaMachine/static/js/2.b39f0a5e.chunk.js"
   },
   {
     "revision": "07a707eba59e3e3ed782f77b31f34780",
-    "url": "/theNygmaMachine/static/js/2.b3433c05.chunk.js.LICENSE.txt"
+    "url": "/theNygmaMachine/static/js/2.b39f0a5e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "299cc59c0d0b1479ab17",
-    "url": "/theNygmaMachine/static/js/main.e4be2bc9.chunk.js"
+    "revision": "2db959ee295bdf21d96e",
+    "url": "/theNygmaMachine/static/js/main.b676b640.chunk.js"
   },
   {
     "revision": "082b202da86733db2340",
