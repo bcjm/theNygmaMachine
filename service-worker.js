@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/theNygmaMachine/precache-manifest.bc7fa2d735abcc1225525733a6695492.js"
+  "/theNygmaMachine/precache-manifest.867c7fa2091899807bd9a51db303b168.js"
 );
 
 self.addEventListener('message', (event) => {
